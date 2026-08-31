@@ -1,4 +1,3 @@
-# Aetheron-Premimum (Phone-X)
-A real world analogy ,lets see the overview 
-<br>
-Developed by - UMAR SIDDIQUE
+# `@rollup/rollup-win32-x64-gnu`
+
+This is the **x86_64-pc-windows-gnu** binary for `rollup`

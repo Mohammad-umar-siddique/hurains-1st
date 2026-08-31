@@ -1,0 +1,10 @@
+{
+  "name": "AETHERON Premium E-Commerce",
+  "description": "Premium luxury futurist e-commerce platform for flagship smartphones. Features dynamic 3D visual experiences, a high-end cyberpunk design, live order tracking, an admin dashboard, and an integrated AI shopping assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
